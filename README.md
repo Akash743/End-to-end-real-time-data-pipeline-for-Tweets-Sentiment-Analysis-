@@ -4,6 +4,11 @@ ML & Containerization on AWS
 
 Tracking the tweets done by news agency ‘Reuters’ and analyzing its sentiment. 
 
+
+![Twitter_Project](https://user-images.githubusercontent.com/57750483/199290956-139c9a3a-dcd4-4ec6-a668-45a0280fcea5.png)
+
+
+
  
 
 Using Twitter API V2 with Essential Access(most basic and free). First need to make Developer’s account in Twitter, can then generate unique Bearer Token using which API can be accessed.  

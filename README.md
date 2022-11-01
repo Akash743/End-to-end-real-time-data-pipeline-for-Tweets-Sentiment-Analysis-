@@ -25,6 +25,9 @@ AWS Lambda Function is performing the following tasks:
 
 Using Postgres DB as the data warehouse as shown below: 
 
+![image](https://user-images.githubusercontent.com/57750483/199294620-ac7da637-2824-41e7-b592-8f697cfcdf1c.png)
+
+
 Not all packages/libraries are available for use in the Lambda function. Hence, some layers have to be added to the function as we do by install packages in the environement.  
 
 Some layers can be found over the internet while rest can be created. Resources are mentioned below:  
@@ -103,6 +106,7 @@ Go to terminal, download and install AWS CLI(google the instructions)
 
 Then configure AWS CLI ..now go to right directory where project is kept and Configure AWS CLI and login using ECR push repo instructions present in ECR repo. If issue in login(close and repeat) 
 
+![image](https://user-images.githubusercontent.com/57750483/199294916-94c3975d-f584-4931-877a-37d542ad160a.png)
  
 
  
